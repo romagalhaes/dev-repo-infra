@@ -1,0 +1,3 @@
+site_name: dev-repo-infra
+nav:
+  - Home: docs/index.md

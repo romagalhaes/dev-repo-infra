@@ -1,7 +1,11 @@
-# dev-repo-infra
+# dev-repo
 
-Teste repo infra e app
+Documentação inicial do serviço `dev-repo`.
 
-## Desenvolvimento
+## Visão geral
 
-Este servico foi criado pelo template do Backstage.
+Este repositório contém o código da aplicação.
+
+## Como evoluir esta documentação
+
+Adicione aqui instruções de execução, arquitetura, observabilidade e operação.
