@@ -5,8 +5,6 @@ metadata:
   description: Repositório da aplicação dev-repo-infra
   annotations:
     backstage.io/techdocs-ref: dir:.
-
-    backstage.io/techdocs-ref: dir:.
     idp.mycompany.com/infrastructure-repository: "https://github.com/romagalhaes/dev-repo-infra-infra"
     idp.mycompany.com/infrastructure-entity-ref: "component:default/dev-repo-infra-infra"
 spec:
