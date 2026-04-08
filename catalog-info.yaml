@@ -1,14 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: dev-repo-infra
-  description: Repositório da aplicação dev-repo-infra
+  name: "dev-repo-infra"
+  description: "Repositório da aplicação dev-repo-infra"
   annotations:
     backstage.io/techdocs-ref: dir:.
-    backstage.io/source-location: url:https://github.com/romagalhaes/dev-repo-infra
+    backstage.io/source-location: "url:https://github.com/romagalhaes/dev-repo-infra/tree/main/"
     idp.mycompany.com/infrastructure-repository: "https://github.com/romagalhaes/dev-repo-infra-infra"
     idp.mycompany.com/infrastructure-entity-ref: "component:default/dev-repo-infra-infra"
 spec:
   type: service
-  owner: user:guest
+  owner: "user:guest"
   lifecycle: experimental
